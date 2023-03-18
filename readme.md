@@ -7,6 +7,7 @@
 
 # 双击打开，一键自动ban掉sidebar
 
-# [下载](/DISABLE-EDGE-SIDEBAT.bat)
+# [下载](https://github.com/kdXiaoyi/disabled-edge-sidebar/releases/download/v1.0/DISABLE-EDGE-SIDEBAT.zip)
+[备用](/DISABLE-EDGE-SIDEBAT.zip)
 
 # [更多方法](https://kdxiaoyi.github.io/blogs/2023/18-edge-sidebar)
