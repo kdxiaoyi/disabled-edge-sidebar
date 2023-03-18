@@ -8,3 +8,5 @@
 # 双击打开，一键自动ban掉sidebar
 
 # [下载](/DISABLE-EDGE-SIDEBAT.bat)
+
+# [更多方法](https://kdxiaoyi.github.io/blogs/2023/18-edge-sidebar)
